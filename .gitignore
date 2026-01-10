@@ -34,3 +34,6 @@ dmypy.json
 
 # Visual Studio Code
 .vscode/
+
+my_spotify_data.zip
+spotify-extended-streaming-history/
