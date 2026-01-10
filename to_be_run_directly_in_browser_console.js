@@ -1,6 +1,6 @@
 // --- CONFIGURATION ---
-const TOKEN = "Bearer BQBirbzVE3PYboTnTJR-83Xx620dAd72zRf9S3h4KEyyNESizgI1g9Qm0maW5lv4zpFh2_qlTRY7HGiM6VUrJLzYMfRh1kgypxHgmyl0qR6N3iIPo_gtV8-IpBKfU2h1U5E5KqalWbgh4O8tL2hG9rfRNhegSJXe6M78O-T0Aze0kPbNY_pzAmO7uiW4m_o4Lnx15cfmlf6xSiTrr5EhcZtgPVjdW7pwbvyviJf4xf6z6mbwgeMLGACgTfhNd1pYFJbxmKwckdDdKahvjOdeWUz8Jzpx2rEchOWB4d66aV95W6AvRyLvCWRk-C-z3fZ2eb8hJZx7ILw2Gm0PGfjaG29700As0r3NS_RB12DN8hpoaPhFTRHrSRsK9C0YlWzhrK38v-p7x9-3"; // <--- PASTE TOKEN HERE
-const DELAY_MS = 2500; // 2.5s delay to be safe
+const TOKEN = "Bearer BQCPLHz5t-Sogils15QH6h2HPeoZq_KoOzuwhHtel4HxVwACuK62SHo9HfYAd4djj_m8P7T-YroWlLLpcsR2o4qRmZndqlxtWOUwCbTT6vYeES-k9SfzgHYF2xLv7wzQ_Z2s8cROq9cT5gMQgIi3qw1hlOOrXOpB60PiJaMq1lW8BF1YdacF7TbqHDqxBrf2idC119HAMO1sf2vqtsL6nRQHNpM4XS2aNgQ7mOLYsPJd_s-bCQwxtmOvCwBAJM3R_EARNQhErF8z8t4qvlVwGzcV8299aECJ8srSHmC9jgYx21EIaoxZ6QjO4mtrYLvDwyg68UL5wts8lttihoKlAaqtzlApc4XRf-4-Yh98AhUQhnGuguh5WpYof5LGiy_If6Nk9HVHAHge"; // <--- PASTE NEW TOKEN HERE
+const DELAY_MS = 2500; // Keep it slow to avoid the '429' hammer
 
 // --- THE ENGINE ---
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
@@ -40,18 +40,18 @@ async function getAllItems(initialUrl) {
         if (!data) break;
         items.push(...data.items);
         nextUrl = data.next;
-        await sleep(DELAY_MS); // Be gentle
+        await sleep(DELAY_MS);
     }
     return items;
 }
 
 async function runHeist() {
     console.clear();
-    console.log("%c Starting Console Heist...", "color: #0f0; font-size: 16px; font-weight: bold;");
+    console.log("%c Starting Console Heist v2...", "color: #0f0; font-size: 16px; font-weight: bold;");
     
     // 1. Get User ID
-    const me = await fetchWithRetry('https://community.spotify.com/t5/Spotify-for-Developers/Unable-to-create-app-in-Spotify-Developer/td-p/5632122/page/2');
-    if (!me) return console.error("Token invalid?");
+    const me = await fetchWithRetry('https://api.spotify.com/v1/me');
+    if (!me) return console.error("Token invalid? Did you copy the whole 'Bearer ...' string?");
     const userId = me.id;
     console.log(`Logged in as: ${userId}`);
 
@@ -66,9 +66,6 @@ async function runHeist() {
     for (const [index, pl] of playlists.entries()) {
         console.log(`Processing [${index + 1}/${playlists.length}]: ${pl.name}`);
         
-        // Skip Spotify's algorithmic playlists if you want (they often fail exporting)
-        // if (pl.owner.id !== userId) continue; 
-
         const tracks = await getAllItems(`https://api.spotify.com/v1/playlists/${pl.id}/tracks?limit=50`);
         
         fullDump[pl.name] = tracks.map(t => {
@@ -80,7 +77,7 @@ async function runHeist() {
                 album: tr.album.name,
                 isrc: tr.external_ids ? tr.external_ids.isrc : ""
             };
-        }).filter(t => t); // Filter nulls
+        }).filter(t => t); 
     }
 
     // 4. Download File
