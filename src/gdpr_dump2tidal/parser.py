@@ -10,7 +10,7 @@ TOP_TRACKS_LIMIT = 1000           # Size of "Top of All Time" playlist
 YEARLY_LIMIT = 2400               # Max size of yearly playlists
 MONTHLY_LIMIT = 2000              # dtto of monthly playlists 
 
-path_to_sptf_jsons = "../../spotify-extended-streaming-history/"
+path_to_sptf_jsons = "../../extended-streaming-history/"
 print(f">>> Path where you unzipped JSON files: {path_to_sptf_jsons}")
 
 def parse_history():
