@@ -1,0 +1,93 @@
+{
+  "topArtists" : {
+    "numUniqueArtists" : 253,
+    "topArtists" : [ {
+      "artistUri" : "spotify:artist:6PwVmRPrwy0am1n3mYlzZt"
+    }, {
+      "artistUri" : "spotify:artist:432R46LaYsJZV2Gmc4jUV5"
+    }, {
+      "artistUri" : "spotify:artist:4FLAQtm0eyg3skafatcf6c"
+    }, {
+      "artistUri" : "spotify:artist:4UXJsSlnKd7ltsrHebV79Q"
+    }, {
+      "artistUri" : "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+    } ],
+    "topArtistMilliseconds" : 17094916,
+    "topArtistFanPercentage" : 0.042151798
+  },
+  "topPodcasts" : {
+    "topPodcastsUri" : [ "spotify:show:5rgumWEx4FsqIY8e1wJNAk", "spotify:show:7d26NkKcJFZKs1ErOU8DyN" ],
+    "topPodcastMilliseconds" : 80588727,
+    "topPodcastPercentage" : 0.0,
+    "totalPodcastMilliseconds" : 121063080
+  },
+  "topTracks" : {
+    "topTracks" : [ "spotify:track:3ZZq9396zv8pcn5GYVhxUi", "spotify:track:3vBzbTG9mUwAj1tvrrQsec", "spotify:track:7g8agORH0gABnd46hxAGZK", "spotify:track:3IJgftI5isW9zYZpNe4lPB", "spotify:track:1LPeJ7P3Dhu9PrL4fYc7TX" ],
+    "topTrackPlayCount" : 7,
+    "topTrackFirstPlayedDate" : "2024-05-23",
+    "distinctTracksPlayed" : 486
+  },
+  "yearlyMetrics" : {
+    "totalMsListened" : 290676787,
+    "mostListenedDay" : "2024-05-25",
+    "mostListenedDayMinutes" : 181.58699,
+    "percentGreaterThanWorldwideUsers" : 54.900944
+  },
+  "musicEvolution" : {
+    "eras" : [ {
+      "key" : "0",
+      "peakMonth" : 1,
+      "color" : "green-blue",
+      "genre" : "classical",
+      "mood" : "royalcore",
+      "descriptor" : "ballroom",
+      "pivotalArtists" : [ "spotify:artist:436sYg6CZhNefQJogaXeK0", "spotify:artist:5goS0v24Fc1ydjCKQRwtjM", "spotify:artist:17hR0sYHpx7VYTMRfFUOmY" ],
+      "tracks" : [ {
+        "trackName" : "Boléro, M. 81",
+        "trackUri" : "spotify:track:2QJx8IgKSFfbMQDKxMUioZ"
+      }, {
+        "trackName" : "Danse macabre, Op. 40",
+        "trackUri" : "spotify:track:3e0dy2rIp2OMa6NuYk0j8x"
+      }, {
+        "trackName" : "The Emperor Waltz, Op. 437",
+        "trackUri" : "spotify:track:2Hb9LPdItg18VbyZOxuYGC"
+      } ]
+    }, {
+      "key" : "1",
+      "peakMonth" : 4,
+      "color" : "yellow-blue",
+      "genre" : "post-punk",
+      "mood" : "goth",
+      "descriptor" : "synthesizer",
+      "pivotalArtists" : [ "spotify:artist:432R46LaYsJZV2Gmc4jUV5", "spotify:artist:5TuV5KauTXLFX1ODD7mEb0" ],
+      "tracks" : [ {
+        "trackName" : "Transmission",
+        "trackUri" : "spotify:track:4quX6Y6cvrP9hY4hiZBHiG"
+      }, {
+        "trackName" : "She's Lost Control - 2010 Remaster",
+        "trackUri" : "spotify:track:6tXzHS2nbQug3YbWoFnYIl"
+      }, {
+        "trackName" : "Leaders of Men - 2010 Remaster",
+        "trackUri" : "spotify:track:3FckgkjljxOUBt9LYUZo5Z"
+      } ]
+    }, {
+      "key" : "2",
+      "peakMonth" : 5,
+      "color" : "red-blue",
+      "genre" : "psytrance",
+      "mood" : "psychedelic",
+      "descriptor" : "didgeridoo",
+      "pivotalArtists" : [ "spotify:artist:6S2tas4z6DyIklBajDqJxI", "spotify:artist:15XNEknq5BRs3UNngeqpFP", "spotify:artist:2Pjnt26cYhHSXhbFjt2XbH" ],
+      "tracks" : [ {
+        "trackName" : "Dragonfruit - Original Mix",
+        "trackUri" : "spotify:track:1oO7EvTYeTYwyYLPFBXl0D"
+      }, {
+        "trackName" : "The Gathering",
+        "trackUri" : "spotify:track:0Re5wnffZ5GdDJ6h2jpMn2"
+      }, {
+        "trackName" : "Kraken - Mixed",
+        "trackUri" : "spotify:track:5vouv6paNl3HqpSTL4RFzc"
+      } ]
+    } ]
+  }
+}

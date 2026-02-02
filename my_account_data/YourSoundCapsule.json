@@ -1,0 +1,98 @@
+{
+  "stats" : [ {
+    "date" : "2025-12-29",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Singl Singl Singl",
+      "streamCount" : 1,
+      "secondsPlayed" : 276
+    }, {
+      "name" : "Výkřiky do tmy",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Opaťák",
+      "streamCount" : 1,
+      "secondsPlayed" : 176
+    }, {
+      "name" : "Kniha života",
+      "streamCount" : 1,
+      "secondsPlayed" : 166
+    }, {
+      "name" : "Chuť života",
+      "streamCount" : 1,
+      "secondsPlayed" : 160
+    }, {
+      "name" : "The Primitives Talk",
+      "streamCount" : 1,
+      "secondsPlayed" : 52
+    } ],
+    "topArtists" : [ {
+      "name" : "Macbeth Uzurpátor",
+      "streamCount" : 5,
+      "secondsPlayed" : 1007
+    }, {
+      "name" : "Zach Hill",
+      "streamCount" : 1,
+      "secondsPlayed" : 52
+    }, {
+      "name" : "Bert",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2025-12-07",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Joost",
+      "listeningPercentage" : 98.04579549940782
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Night Format",
+      "secondEntity" : "Tata Bojs"
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Oko – do duše poklop",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Tři zlaté zuby děda Vševěda (feat. Prago Union)",
+      "country" : "CZ",
+      "position" : 8221
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Mutanti hledaj východisko",
+      "milestoneListeningSeconds" : 15766
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Kolem šlehaj plameny (feat. Tata Bojs)",
+      "country" : "CZ",
+      "position" : 3002
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Johnny Cash",
+      "listeningPercentage" : 73.59920733217736
+    }
+  } ]
+}

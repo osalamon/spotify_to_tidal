@@ -1,0 +1,23 @@
+{
+  "ratedShows" : [ {
+    "showName" : "Clearer Thinking with Spencer Greenberg",
+    "rating" : 5,
+    "ratedAt" : "2025-11-29T21:48:46.312263691Z"
+  }, {
+    "showName" : "BJJ Mental Models",
+    "rating" : 5,
+    "ratedAt" : "2025-11-29T21:47:35.865127139Z"
+  }, {
+    "showName" : "The Peter Attia Drive",
+    "rating" : 5,
+    "ratedAt" : "2025-11-29T21:47:19.960951231Z"
+  }, {
+    "showName" : "Lex Fridman Podcast",
+    "rating" : 1,
+    "ratedAt" : "2025-11-19T18:08:49.990602411Z"
+  }, {
+    "showName" : "Making Sense with Sam Harris",
+    "rating" : 5,
+    "ratedAt" : "2025-11-29T21:46:55.835766977Z"
+  } ]
+}

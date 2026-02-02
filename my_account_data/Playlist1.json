@@ -1,0 +1,5242 @@
+{
+  "playlists" : [ {
+    "name" : "PDCSTs - P.Attia - fitnessacka  MUSTurbace",
+    "lastModifiedDate" : "2025-11-06",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : null,
+      "episode" : {
+        "episodeName" : "#369 ‒ Rethinking protein needs for performance, muscle preservation, and longevity, and the mental and physical benefits of creatine supplementation and sauna use | Rhonda Patrick, Ph.D.",
+        "showName" : "The Peter Attia Drive",
+        "episodeUri" : "spotify:episode:0Vyg4YPNDFQxMeRrP75Sic"
+      },
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-11-06"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "TO CHECK",
+    "lastModifiedDate" : "2025-09-19",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Look Your Back!",
+        "artistName" : "菊池ひみこ",
+        "albumName" : "FLYING BEAGLE",
+        "trackUri" : "spotify:track:27IwuF0An9TAHWQFK65AJN"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-19"
+    }, {
+      "track" : {
+        "trackName" : "A Seagull & Clouds",
+        "artistName" : "菊池ひみこ",
+        "albumName" : "FLYING BEAGLE",
+        "trackUri" : "spotify:track:499ED0dvqypAvFR2agwuoz"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-19"
+    }, {
+      "track" : {
+        "trackName" : "Flying Beagle",
+        "artistName" : "菊池ひみこ",
+        "albumName" : "FLYING BEAGLE",
+        "trackUri" : "spotify:track:2FERKKKj73y0GQaYenGieb"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-19"
+    }, {
+      "track" : {
+        "trackName" : "Fluffy",
+        "artistName" : "菊池ひみこ",
+        "albumName" : "FLYING BEAGLE",
+        "trackUri" : "spotify:track:2wnadd5isp8QjA9mytDNa7"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-19"
+    }, {
+      "track" : {
+        "trackName" : "Sand Storm",
+        "artistName" : "菊池ひみこ",
+        "albumName" : "FLYING BEAGLE",
+        "trackUri" : "spotify:track:4JyVxlICzFVhRC5iwK2FKH"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-19"
+    }, {
+      "track" : {
+        "trackName" : "Baby Talk",
+        "artistName" : "菊池ひみこ",
+        "albumName" : "FLYING BEAGLE",
+        "trackUri" : "spotify:track:63vK0mqDfgMYuoRrW7pDf5"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-19"
+    }, {
+      "track" : {
+        "trackName" : "The Second Summer",
+        "artistName" : "菊池ひみこ",
+        "albumName" : "FLYING BEAGLE",
+        "trackUri" : "spotify:track:1gsdFORVSQP3jiLDLPbd0e"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-19"
+    }, {
+      "track" : {
+        "trackName" : "Ducky Ducky",
+        "artistName" : "菊池ひみこ",
+        "albumName" : "FLYING BEAGLE",
+        "trackUri" : "spotify:track:004LAuzjY25yKakpkkMVI8"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-19"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : ".oderat HP",
+    "lastModifiedDate" : "2025-08-02",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Rusty Nails",
+        "artistName" : "Moderat",
+        "albumName" : "Moderat",
+        "trackUri" : "spotify:track:0aUtDDfbI5EKUJDaUKRM9B"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    }, {
+      "track" : {
+        "trackName" : "Seamonkey",
+        "artistName" : "Moderat",
+        "albumName" : "Moderat",
+        "trackUri" : "spotify:track:7yQYuDWHOcEwngp2cYmQkC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    }, {
+      "track" : {
+        "trackName" : "Arcadia",
+        "artistName" : "Apparat",
+        "albumName" : "Walls",
+        "trackUri" : "spotify:track:49KVtxjMNy8li0sQt4exTD"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    }, {
+      "track" : {
+        "trackName" : "Les Grandes Marches",
+        "artistName" : "Moderat",
+        "albumName" : "Moderat",
+        "trackUri" : "spotify:track:3khLRTfeeRTGB2xVuuOKu4"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    }, {
+      "track" : {
+        "trackName" : "Bad Kingdom - Instrumental",
+        "artistName" : "Moderat",
+        "albumName" : "Bad Kingdom",
+        "trackUri" : "spotify:track:3QP3QNrp7q7YdO6OTB5rCa"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    }, {
+      "track" : {
+        "trackName" : "Berlin",
+        "artistName" : "Moderat",
+        "albumName" : "Moderat",
+        "trackUri" : "spotify:track:3OJxEdFbyzsboEkzJLdwhi"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    }, {
+      "track" : {
+        "trackName" : "Porc #2",
+        "artistName" : "Moderat",
+        "albumName" : "Moderat",
+        "trackUri" : "spotify:track:4m1BI7brTKZF9nPnDkvZv5"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    }, {
+      "track" : {
+        "trackName" : "Porc #1",
+        "artistName" : "Moderat",
+        "albumName" : "Moderat",
+        "trackUri" : "spotify:track:5Yq5qE4lYnSTURLRZALEKZ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    }, {
+      "track" : {
+        "trackName" : "3 Minutes Of",
+        "artistName" : "Moderat",
+        "albumName" : "Moderat",
+        "trackUri" : "spotify:track:2db8wgrYwXl09iDI5BWYpy"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "BJJ",
+    "lastModifiedDate" : "2025-09-12",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : null,
+      "episode" : {
+        "episodeName" : "Ep. 6: Gym Culture & Etiquette",
+        "showName" : "BJJ Mental Models",
+        "episodeUri" : "spotify:episode:7aRokuHLCMO1Piha6tVVOf"
+      },
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-07-19"
+    }, {
+      "track" : null,
+      "episode" : {
+        "episodeName" : "Josh Vogel - Independent Jiu-Jitsu",
+        "showName" : "Forever White Belt",
+        "episodeUri" : "spotify:episode:3FUSblbYkCVLkX2eA7hLDT"
+      },
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-09-12"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "SHAZAM",
+    "lastModifiedDate" : "2025-07-06",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Subterranean Homesick Blues",
+        "artistName" : "Bob Dylan",
+        "albumName" : "Bringing It All Back Home",
+        "trackUri" : "spotify:track:6k9DUKMJpWvu6eFG3O64Lg"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-07-06"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "My top tracks playlist",
+    "lastModifiedDate" : "2025-01-26",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Down Under",
+        "artistName" : "Men At Work",
+        "albumName" : "Business As Usual",
+        "trackUri" : "spotify:track:3ZZq9396zv8pcn5GYVhxUi"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Ahoj I.",
+        "artistName" : "Mutanti hledaj východisko",
+        "albumName" : "PUMA",
+        "trackUri" : "spotify:track:3vBzbTG9mUwAj1tvrrQsec"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Avril 14th",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Drukqs",
+        "trackUri" : "spotify:track:1uaGSDFsLdReQgg8p7Obwh"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Guardian Angel",
+        "artistName" : "Juno Reactor",
+        "albumName" : "Beyond the Infinite",
+        "trackUri" : "spotify:track:4cExcH3MwJdpVvUWUpjpRR"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Mona Lisa Overdrive",
+        "artistName" : "Juno Reactor",
+        "albumName" : "The Matrix Reloaded: The Album",
+        "trackUri" : "spotify:track:6m7mgnkUOpQGzvaqdIeyye"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-01-26"
+    } ],
+    "description" : "Playlist created by the tutorial on developer.spotify.com",
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "techno vybery, mixy etc",
+    "lastModifiedDate" : "2019-12-23",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Like Blood From The Beloved (Part 1) - Interpreted by Steven R. Sellick",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:6kHdwL2lrMBgr880xpjVsv"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Burning Heretic - Cycles Of Absolute Truths Mix by Ancient Methods",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:2OrdVfcYrK1GqeKwAyTrOe"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Backdraft - Deviced by The Invincible Spirit",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:3gLbNiMd0GvDL9kZScoqZO"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Stitch - Restitched by Cronos Titan",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:1R5mjz8RkjDmTR5gH5vEqD"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "ARP - No Sleep Mix by Beranek",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:2ApXb1V7p7jN3Z4UHsx9sT"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "The Sentinel - Southern Discomfort Mix by Blackhouse",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:77upFYCAglBw7dRUv9H0SC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Walk With Me - FRXTA Skyline Mix by Mortiis",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:5kOikpztmm16B1WQuL2W5N"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Backdraft - Kill The Light Mix by Codex Empire",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:27cPYUvIv5KenhOxHMiHdS"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Spiritual Reality - Gold Golem Version by Portion Control",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:42iSXyC9s9ASJ4OfrH2LHs"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Stitch - Amplified Version by Clock DVA",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:1A07z4iVOBjbVZNcig2BWF"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Bitch - Weil Mix by Substaat",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:0ye26WTJVU5NFg4EG1oMgY"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Borrowed Time - Sublime Mix by Atropine",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:5auFN8zxx0pDrS35zEUbdw"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "The Sentinel - Doom Electronics Version by Prurient Feat. Maniac",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:2YfO0zDsxY58mvgLKICbfl"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Stitch - Patched & Processed by O/E",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:17xn8yiuvNcif2gWO3tl3i"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Ashes To Ashes - Diabolic Mix by Bal Paré",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:4UpRdWtX1gg9VIK9473sT5"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Skyscraping - Cricket Mix by Monster Apparat",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:2mLNE0ZoZNo81jRcZtWMmC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "All Tomorrow's Parties - Evolve Or Die Mix by Naked Lunch",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:257g7HabyGFcnBaiaOZWCi"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    }, {
+      "track" : {
+        "trackName" : "Like Blood From The Beloved (Part 2) - Reworked by Erik Wøllo",
+        "artistName" : "Apoptygma Berzerk",
+        "albumName" : "SDGXXV",
+        "trackUri" : "spotify:track:3jyFnwUpFwUlcd4LcYzoAZ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-12-23"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Interesting Epizodes of Unknown Podcasts",
+    "lastModifiedDate" : "2019-09-05",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : null,
+      "episode" : {
+        "episodeName" : "The Sam Harris Debate",
+        "showName" : "The Gray Area with Sean Illing",
+        "episodeUri" : "spotify:episode:11jLWoqbr76Ho8EsT5UYFG"
+      },
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-09-05"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Essential Miami Bass Tracks (Mixmag.net/Vice/...)",
+    "lastModifiedDate" : "2025-08-02",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Get Loose Now",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "As Nasty As They Wanna Be",
+        "trackUri" : "spotify:track:5DWRniGdgzIWuHe9gtbE3W"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "If You Believe In Having Sex",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "As Nasty As They Wanna Be",
+        "trackUri" : "spotify:track:2vNhFfLZus3TiRH7kK32UM"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Throw The 'D'",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Is What We Are",
+        "trackUri" : "spotify:track:4s4aGDyTxTT8SK3sddBy55"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Tootsee Roll (Dance Version)",
+        "artistName" : "69 Boyz",
+        "albumName" : "199 Quad (w/ Bonus Dvd)",
+        "trackUri" : "spotify:track:0SAIjVOwxVnO1l9HGvLuOU"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Scrub da Ground",
+        "artistName" : "Splack Pack",
+        "albumName" : "Before There Was Crunk",
+        "trackUri" : "spotify:track:29mXf0CC57hCOcMvAutpKC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Shake That Ass Bitch",
+        "artistName" : "Splack Pack",
+        "albumName" : "Uhh!! Ohh!!",
+        "trackUri" : "spotify:track:6PmNOMnf5HBTRJiSNsPoSj"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Cars That Go Boom",
+        "artistName" : "L'Trimm",
+        "albumName" : "808: The Compilation",
+        "trackUri" : "spotify:track:2pFKuQp8QLsp9Hl3YXuaGo"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "I Wanna Rock (Doo Doo Brown)",
+        "artistName" : "Luke",
+        "albumName" : "Gotta Lotta Booty Explicit",
+        "trackUri" : "spotify:track:5F4MalpkJMhPDB8iGicaNQ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Da' Dip",
+        "artistName" : "Freak Nasty",
+        "albumName" : "Controversee…That's Life…and That's the Way It Is",
+        "trackUri" : "spotify:track:76YDsWGWezclVy9Z6sDGhf"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Boom I Got Your Boyfriend",
+        "artistName" : "M.C. Luscious",
+        "albumName" : "Boom!",
+        "trackUri" : "spotify:track:1df3uwyWFt2xtRi8nfyU4d"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Whoot, There It Is",
+        "artistName" : "95 South",
+        "albumName" : "Quad City Knock",
+        "trackUri" : "spotify:track:1iYPAEdiCZH7j0H4ioDojx"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Dunkie Butt",
+        "artistName" : "12 Gauge",
+        "albumName" : "12 Gauge",
+        "trackUri" : "spotify:track:5xuyqQ6bcOtqbMYC0aCNum"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Bass Mechanic",
+        "artistName" : "MC A.D.E.",
+        "albumName" : "Pipo's Ultra - Faz a Terra Tremer",
+        "trackUri" : "spotify:track:6WBKYg61pBuQG49D588kQa"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Bass Heads",
+        "artistName" : "Dj Uncle Al",
+        "albumName" : "Go Ladies",
+        "trackUri" : "spotify:track:61cm9N78icAYVgt9qDQNOJ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Dance Like A Hoe (Dirty)",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:0SeKfrLeidfY56cBsZNy8S"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Rusty Nails",
+        "artistName" : "Moderat",
+        "albumName" : "Moderat",
+        "trackUri" : "spotify:track:0aUtDDfbI5EKUJDaUKRM9B"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2025-08-02"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Miami BASS related aka possible influences on the almighty OVS",
+    "lastModifiedDate" : "2019-06-22",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Introduction to Virtual Bass (Sub Transducer Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:3dYJ33t8pldOOyMqAGdnbI"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Digital Dreams (Mid Tempo Digital Bass Version)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:2nwvYx5s20YjzLn1VmOjRH"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Rebel Science Prelude (20 Hertz Boom Experiment)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:6Y1rDY8Q6coagj95XtuCSZ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Rebel Science (Ultra Low Computer Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:09qDtc5hhFq5NXhAVWa6hm"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Digital Turntables (Ultra Boom Experiment)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:4ZDrX1A5RALHCo3Izb0p2O"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Mix Master (Digital Turntable Power Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:5B92n4UJvtryAgQtXTSJZ4"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Bach 305 (Tribal Bass Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:2IreH9G7gnVCcOgaq91ILv"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "305 Has Landed (40 Hertz Woofer Exercise)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:5tUtssNK1Qkfu8Bq9WQMLt"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Does Life... Exist On This Planet? (Berlin Radio Version)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:3re5IJA2vqW8IajtTgsusn"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Virtual Bass (Mega Sub Harmonic Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:4cLQtFfrVq0E0rqen77Rng"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "305 On-Line (Euro Bass Version)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:693CL5F4EFpccUEjBamsio"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Autobaun Route 305 (Ultimate Low Frequency Challenge)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:4s7dEA7eUcN9cwtFV8yHwQ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Space Travel (Low Frequency Digital Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:28fwchMn9AYEr02ZODoPxU"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Hip Hop Groove (Sample Symphonymovement 305)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:11mi6f2HE6RU6TCrqEHOd6"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Look Aggressively Towards the Future (Interactive Bass Test)",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:63LkOomnQXY9kktNzCx6SO"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "305 Emergency Siren",
+        "artistName" : "Bass 305",
+        "albumName" : "Virtual Bass",
+        "trackUri" : "spotify:track:2OjVq9AxlyQQO8Axdpgq8w"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "The Science of Sound (Low Frequency Audio Test)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:7lrpbvVRttLqkCNVETJjoP"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Techno Bass (Eurobass Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:0U1SCrO3czgaSoirsXeY1q"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Pump Up the Bass (Sub Woofer Movement Version)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:3udGPTgXm4nifTkUlyeGxN"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Bass Transmission (Radar Radio Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:4PENp7L1WaMrAiqhZ1HTOh"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Flight 305 (Down Tempo Bass Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:7JlBdCbNBOI1DYVDaSg71Y"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Techno Soul Bass (Hip Hop Version)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:7wmd29Y6jTIHPdLxMsAoqL"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Bass FX (Mega Low Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:1sS1r88F1E1n4cKKiVXnxT"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Digital Bass (Ultra Car Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:5ySGAl10njSvFIjPehGFwd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Bass Muzik 305 (Berlin Bass Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:3iOV6web5i5rTJegMxsrJv"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Sub Culture (Sonic Boom Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:7fFVbL08J2EAviFg2lkLBo"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Into the Future (Berlin Radio Interpretation)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:55Rt1bH3SXH2iHONUAzk9k"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Musik of the Future (Sci Fi Bass Test)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:7hTBbpc4VSza1jkb5L54Zo"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Automated Digital Bass (Interactive Woofer Remix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:3UIW5F03Ay6CnCp3HoYRe7"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Pure Tone-Bass! (Low Frequency Audio Version)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:7x54692DajF1yqjI3BBZlS"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Warning Signal to Compute Bass (Disk Drive Terrorism Mix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:2uvhLAQcghiXpOy0DYYJG6"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Computer Bass (Rebel Science London Version)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:6ErkeqkloYWuDMgYDhbLGu"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "B.A.S.E. Mission 305 (Air Raid Remix)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:0NjCjrZw8DZbpM5zheq16c"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Man Likes the Sound of Bass (Slow Euro Bass Dub)",
+        "artistName" : "Bass 305",
+        "albumName" : "Anthology",
+        "trackUri" : "spotify:track:5NHckVZ0GanU4D8i5xRZr4"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Crew To Crue",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:547FxBQDnKMMEJkzhW7MtC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Me So Horny",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:4FrAArbQwsJiFe5MBUP655"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Move Somethin'",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:67cMeQAMFK8rtbKLL8CRVx"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Hoochie Mama",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:0ioFIQXbTUaliQpsJyX4zN"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "We Want Some P--sy (Live In Berlin Extended Mix)",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:5RYdjJMzsfnwuWiwSmi7m9"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Hangin' Out",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:6hZIkgqPdQ7PStB4r2juKd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "In The Dust",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:31E4YRKqNJ1tU9x90JHGty"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Yakety Yak",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:2qpvhwuBQA54v5cpBnivFw"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Get It Girl Extended Mix",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:5PKISyFfYIxhwA6ssAqpzb"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Dirty Nursery Rhymes",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:0l7PMKItnqXhPWu8wOxpwo"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Do You Believe In Having Sex",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:5im8ecuxifTpbaAbgBqZDO"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Pop That P--sy",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:7KFridkE1PN9RpgnBuJBmE"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "F--k Shop",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:43HN8Sc2RSJQkoBabr08sz"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "2 Live Mixx",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Goes To the Movies: Decade of Hits",
+        "trackUri" : "spotify:track:4eq4BN86ptsBFxpiW4ChDG"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "I'm 2 Live Dirty",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:5MphRFhywkmN8kNxPFBSRz"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "I'm 2 Live Clean",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:5doJTUkeT3RHL0TTTHW4Bp"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "I'm 2 Live Instrumental",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:3K8FbonkIUMCqOy9CHHaC9"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "I'm 2 Live Accapella",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:72TJIpush6xAsRb4nongPt"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Dance Like A Hoe (Dirty)",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:0SeKfrLeidfY56cBsZNy8S"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Dance Like A Oh",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:6Lx3HjljhUhFzf4Nc5g96i"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Dance Like A Pro",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:61SOQ5ldYN7ArEYwoV1de0"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Dance Like A H- Instrumental",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:2JFnPn0vq7GSQbFvuyCsKd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Dance Like A H- Accapella",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "I'm 2 Live / Dance Like A Hoe",
+        "trackUri" : "spotify:track:5mFaS5Gt3kcwQqU78KkFVs"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Introduction",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:72uyNaIT9rNlBWgE5CzZBf"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Drop The Bomb",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:66pIMlTSxcvmvn5BRTVM4a"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Move Somethin'",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:5MRiXE9QnF164S55OfijVI"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Ghetto Bass II",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:7BioV35ac98nmoQ5FGc2Mc"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "With Your Badself",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:1hXKUUz5CRZ0U4P4enYAlq"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "P-A-N",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:6oXGVHMStpx0vdGELmkw08"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "H-B-C",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:7vb0cF7NCqnUQ4UjaTbDHc"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "S & M",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:7DIQRWnHl51dGoaYZbTZra"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Do Wah Diddy",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:57goBNSlWZOTn2bLDm1L0s"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Word II",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:4qeJKhxtXfCCDPqoKWN5Gq"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Feel Alright Y'all",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:5rBGDvBBJdLYBkLTulW2z1"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "One And One",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:1h7gUSJ8GuyCOoVWsvwVy1"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Mega Mixx II",
+        "artistName" : "2 LIVE CREW",
+        "albumName" : "Move Somethin'",
+        "trackUri" : "spotify:track:4Gmtvg9ahXBt4mFtQexZ70"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    } ],
+    "description" : "Bass 305",
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "new ovs mdslt catn",
+    "lastModifiedDate" : "2019-09-22",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Rattle Snake",
+        "artistName" : "Catnapp",
+        "albumName" : "Rattle Snake",
+        "trackUri" : "spotify:track:6oaaTyga1QMegsrhu0Yrav"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-18"
+    }, {
+      "track" : {
+        "trackName" : "The Mover",
+        "artistName" : "Catnapp",
+        "albumName" : "The Mover",
+        "trackUri" : "spotify:track:0veF8AqCbOcYzaqCJjCU82"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-18"
+    }, {
+      "track" : {
+        "trackName" : "Who",
+        "artistName" : "Modeselektor",
+        "albumName" : "Who Else",
+        "trackUri" : "spotify:track:0LJcP6ApERw0OvosstOdZm"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-09-22"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "\"interpreti\" k poradnemu prohmatani prostaty",
+    "lastModifiedDate" : "2020-02-26",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Contract",
+        "artistName" : "Solid Blake",
+        "albumName" : "Warp Room",
+        "trackUri" : "spotify:track:6qfQdjXhk6Xn4QfaSQq4XP"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Mario - Original Mix",
+        "artistName" : "Solid Blake",
+        "albumName" : "Mario EP w/ DJ Stingray Remix",
+        "trackUri" : "spotify:track:3hubSIhf0OIeRikJke8YbP"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Axid",
+        "artistName" : "Carlton Doom",
+        "albumName" : "Dungeon Funk EP",
+        "trackUri" : "spotify:track:4oNsxWih1WyFBZBwoI4JyM"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Dungeon Funk",
+        "artistName" : "Carlton Doom",
+        "albumName" : "Dungeon Funk EP",
+        "trackUri" : "spotify:track:1l0yZz1m1uSs7VJFavsoNp"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Redemption",
+        "artistName" : "Delta Funktionen",
+        "albumName" : "Traces",
+        "trackUri" : "spotify:track:7p0kzSR3bqf2jxxmJD5OU0"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Black Endlessness",
+        "artistName" : "Delta Funktionen",
+        "albumName" : "Wasteland",
+        "trackUri" : "spotify:track:1k3ATz598zmMMJvt5YgJ9X"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Nebula",
+        "artistName" : "Delta Funktionen",
+        "albumName" : "Electromagnetic Radiation Part 1",
+        "trackUri" : "spotify:track:6wpXPsX3vIWJTWWKz0Xz6c"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Hypnosis",
+        "artistName" : "Kmyle",
+        "albumName" : "Hyper Society EP [Incl. Reflec Remix]",
+        "trackUri" : "spotify:track:0puy4u04RHxmJ7c887g7rr"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Morning Lobotomy - Ilario Alicante Remix",
+        "artistName" : "Kmyle",
+        "albumName" : "Morning Lobotomy",
+        "trackUri" : "spotify:track:3Hbq5Kn353gNRRPx5F5yMh"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Patient zéro",
+        "artistName" : "Kmyle",
+        "albumName" : "Nation Techno: France",
+        "trackUri" : "spotify:track:2rICcPgASIdOU1S6JeLdTJ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Tortured Mind",
+        "artistName" : "Kmyle",
+        "albumName" : "Morning Lobotomy",
+        "trackUri" : "spotify:track:6gNUPzRsTLuhJWX86Ib6nu"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Impulsive Behavior",
+        "artistName" : "Under Black Helmet",
+        "albumName" : "I Was Laid-Back A Sinner Of Sorts EP",
+        "trackUri" : "spotify:track:2rUcZqfcUlUR1DxOjwz9NK"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Have You Ever Had a Dream",
+        "artistName" : "Under Black Helmet",
+        "albumName" : "Mute",
+        "trackUri" : "spotify:track:2Hm8x3AC3VWpzXPSnufCuw"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Mute",
+        "artistName" : "Under Black Helmet",
+        "albumName" : "Mute",
+        "trackUri" : "spotify:track:5wRXGPnXX1Jm16uQoEEp8p"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Jagged",
+        "artistName" : "Under Black Helmet",
+        "albumName" : "I Was Laid-Back A Sinner Of Sorts EP",
+        "trackUri" : "spotify:track:5DX65uqCMWTzEdlvUfkioW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Juvenile Moral",
+        "artistName" : "Under Black Helmet",
+        "albumName" : "Juvenile Moral",
+        "trackUri" : "spotify:track:2xEXpF2Hl2BiYMRdvFZk2l"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Uncertain Future",
+        "artistName" : "Under Black Helmet",
+        "albumName" : "Juvenile Moral",
+        "trackUri" : "spotify:track:641SMi7nns4pmS3LVp20Z5"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Sometimes Everything Is Fine",
+        "artistName" : "Antonello Teora",
+        "albumName" : "Golden Circle 001",
+        "trackUri" : "spotify:track:3puQV1rjQVWGGjzutfVdW7"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "The New Face Of Education",
+        "artistName" : "Hadone",
+        "albumName" : "Golden Circle 001",
+        "trackUri" : "spotify:track:3QcAp7FBFEPUqhpoyuYuTA"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Raw Attack",
+        "artistName" : "Stefano Moretti",
+        "albumName" : "Golden Circle 001",
+        "trackUri" : "spotify:track:6pO9rDbCYEs6dqbcGGao1p"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Zunt",
+        "artistName" : "Rommwick",
+        "albumName" : "Golden Circle 001",
+        "trackUri" : "spotify:track:3dJcbXvU2eZ7qi19uArCsz"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Brain Hack",
+        "artistName" : "Moerbeck",
+        "albumName" : "Golden Circle 001",
+        "trackUri" : "spotify:track:1UglpX8my3aAJuA6FVHwiv"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Thao",
+        "artistName" : "WYAD",
+        "albumName" : "Golden Circle 001",
+        "trackUri" : "spotify:track:7mgLxMwQCDxgz81Gvgnphq"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "CK",
+        "artistName" : "Stefano Moretti",
+        "albumName" : "Golden Circle 003",
+        "trackUri" : "spotify:track:7zbnNtyWj9ZBqAihxdKNkD"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "The Whisperer",
+        "artistName" : "End Train",
+        "albumName" : "Golden Circle 003",
+        "trackUri" : "spotify:track:26UPL3tponJFN4ypgVGG5J"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-01"
+    }, {
+      "track" : {
+        "trackName" : "Daydream",
+        "artistName" : "I Hate Models",
+        "albumName" : "Warehouse Memories",
+        "trackUri" : "spotify:track:0WsROU8CJrMWBukK5IMs4y"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-03"
+    }, {
+      "track" : {
+        "trackName" : "Kolloq",
+        "artistName" : "Rommwick",
+        "albumName" : "Golden Circle 003",
+        "trackUri" : "spotify:track:3vQdMvC9Phm7XlwyO0WgXH"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-03-03"
+    }, {
+      "track" : {
+        "trackName" : "Raging Earth",
+        "artistName" : "Paula Temple",
+        "albumName" : "Raging Earth",
+        "trackUri" : "spotify:track:7LBBjGzqOnwdqKS1rEPN5b"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-05-22"
+    }, {
+      "track" : {
+        "trackName" : "Erotic Autoplay",
+        "artistName" : "Schacke",
+        "albumName" : "Welcome to the Pleasure Dome",
+        "trackUri" : "spotify:track:14LMVDb3h8MnQKfE9P8x3K"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-05-26"
+    }, {
+      "track" : {
+        "trackName" : "Hellzone Megapunk",
+        "artistName" : "Scalameriya",
+        "albumName" : "Hellzone Megapunk",
+        "trackUri" : "spotify:track:3MhY4WmJXk5b7slNtsfPv5"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-05-26"
+    }, {
+      "track" : {
+        "trackName" : "Crucible",
+        "artistName" : "Scalameriya",
+        "albumName" : "Hellzone Megapunk",
+        "trackUri" : "spotify:track:5M4u0BUZJWepFY0b0lzzuR"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-05-26"
+    }, {
+      "track" : {
+        "trackName" : "Let Me Flesh Be Your Sacrament",
+        "artistName" : "Scalameriya",
+        "albumName" : "Hellzone Megapunk",
+        "trackUri" : "spotify:track:1btrejWTTn0vxEcBo4PtZr"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-05-26"
+    }, {
+      "track" : {
+        "trackName" : "Scalene",
+        "artistName" : "mobilegirl",
+        "albumName" : "Poise",
+        "trackUri" : "spotify:track:2L3Dl5YGPeVMu4qovc50NU"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Lonely at the Top",
+        "artistName" : "Fauna",
+        "albumName" : "Infernum",
+        "trackUri" : "spotify:track:4wYiOtqNjH4ZYZ5maFt3J1"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-27"
+    }, {
+      "track" : {
+        "trackName" : "Erasers",
+        "artistName" : "Harvard Bass",
+        "albumName" : "Erasers & Chalk",
+        "trackUri" : "spotify:track:7poQIppkcKDwZHr5Qmz7bZ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-02"
+    }, {
+      "track" : {
+        "trackName" : "We All Go Die Tonite",
+        "artistName" : "Candie Hank",
+        "albumName" : "Booty Bank (Rob the Bank)",
+        "trackUri" : "spotify:track:0L6vh8Cuolhdw5WtSnNgow"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-02"
+    }, {
+      "track" : {
+        "trackName" : "I Do Because I Couldn't Care Less",
+        "artistName" : "I-F",
+        "albumName" : "Fucking Consumer",
+        "trackUri" : "spotify:track:6L59YYepIw7ePQdDz3FBBc"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-02"
+    }, {
+      "track" : {
+        "trackName" : "Acid Booty",
+        "artistName" : "DJ Assault",
+        "albumName" : "The Booty House Collection",
+        "trackUri" : "spotify:track:7oTKT9QLmRUpfa8XXfOpAo"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-02"
+    }, {
+      "track" : {
+        "trackName" : "Zig Zig Zag - Art Majours' Remix",
+        "artistName" : "ZZT",
+        "albumName" : "Partys Over Earth Remix LP",
+        "trackUri" : "spotify:track:052v9qKQpRJ1m3ICQayKhB"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-08"
+    }, {
+      "track" : {
+        "trackName" : "Flasher",
+        "artistName" : "Boston Bun",
+        "albumName" : "Flasher",
+        "trackUri" : "spotify:track:1n2qj4HVrSkd7S5MK63S44"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-14"
+    }, {
+      "track" : {
+        "trackName" : "Pa'las Mamasitas - Original Mix",
+        "artistName" : "Isa GT",
+        "albumName" : "Pa'chikirri - EP",
+        "trackUri" : "spotify:track:0MycCC8VJqmclgcHTxS5pg"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-14"
+    }, {
+      "track" : {
+        "trackName" : "Wire",
+        "artistName" : "Aux Raus",
+        "albumName" : "Aux Raus",
+        "trackUri" : "spotify:track:6n2GS1scXQuTg0RxeT4Y4q"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-14"
+    }, {
+      "track" : {
+        "trackName" : "Hej tomtegubbar (Jag gillar milfar - tsr remix)",
+        "artistName" : "Bageriet",
+        "albumName" : "Den första bakelsen",
+        "trackUri" : "spotify:track:4LHl3uMb0eJZqrvt0KomIR"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-07-16"
+    }, {
+      "track" : {
+        "trackName" : "Helios",
+        "artistName" : "Rival Consoles",
+        "albumName" : "Odyssey / Sonne",
+        "trackUri" : "spotify:track:7GDGodzWVL6nCOBAhZ39rf"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-08-02"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "hajpa influnced",
+    "lastModifiedDate" : "2019-06-18",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Hyper Hyper",
+        "artistName" : "Modeselektor",
+        "albumName" : "Happy Birthday!",
+        "trackUri" : "spotify:track:61gDwcP18d29Vpg0X3DtN9"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Acroyear2",
+        "artistName" : "Autechre",
+        "albumName" : "LP5",
+        "trackUri" : "spotify:track:0YxgETKHayjfYMws5jZ9dw"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Hyper Detail",
+        "artistName" : "Daniel Avery",
+        "albumName" : "Diminuendo",
+        "trackUri" : "spotify:track:4zvgP4fs5afIdBCYpV4Fll"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Baltang Ort",
+        "artistName" : "Squarepusher",
+        "albumName" : "Damogen Furies",
+        "trackUri" : "spotify:track:3nb4qrBdFvaBzu5I3lxGYn"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Near Dark",
+        "artistName" : "Burial",
+        "albumName" : "Untrue",
+        "trackUri" : "spotify:track:59Bd9Z1Vmsv0pI8JQ7bu8X"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "CLU5T3R",
+        "artistName" : "Phon.o",
+        "albumName" : "Schutt und Asche",
+        "trackUri" : "spotify:track:6fUXqinedyywUBq80OJTEC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Ham",
+        "artistName" : "Mr. Oizo",
+        "albumName" : "The Church",
+        "trackUri" : "spotify:track:2vT8AHeD69vF5rlcmVk4Xe"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Melczop 2",
+        "artistName" : "Skee Mask",
+        "albumName" : "Shred",
+        "trackUri" : "spotify:track:2ucP0M5gmOBwZIePV8bzX2"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Do You Know Squarepusher",
+        "artistName" : "Squarepusher",
+        "albumName" : "Do You Know Squarepusher",
+        "trackUri" : "spotify:track:2Il2EdhsgaLmBszoqfHr94"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Bronko",
+        "artistName" : "Modeselektor",
+        "albumName" : "I Am Your God / Bronko",
+        "trackUri" : "spotify:track:2hORwP0o7nZLhRk5yLIvq5"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Mind Rain",
+        "artistName" : "Martyn",
+        "albumName" : "Voids",
+        "trackUri" : "spotify:track:0T8MbOuwfHDzYtsLNhFDuI"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Bike",
+        "artistName" : "Autechre",
+        "albumName" : "Incunabula",
+        "trackUri" : "spotify:track:4v9rHzCDgQXbDdB7t4Nwcz"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Temple Sleeper",
+        "artistName" : "Burial",
+        "albumName" : "Temple Sleeper",
+        "trackUri" : "spotify:track:6jjsnzZ2YHWwebf7ilxdnn"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Tw33tz",
+        "artistName" : "Phon.o",
+        "albumName" : "Tw33tz / Oscillate",
+        "trackUri" : "spotify:track:09oemXZ4875m4cPTD8aUvf"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Massif (Stay Strong)",
+        "artistName" : "Squarepusher",
+        "albumName" : "Big Loada",
+        "trackUri" : "spotify:track:4HTekr6GUQbxoDOZEGiZsU"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "CIRCLONT6A [141.98][syrobonkus mix]",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Syro",
+        "trackUri" : "spotify:track:0Zn4jYnGokSATIvpNLJAGd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Crystel",
+        "artistName" : "Autechre",
+        "albumName" : "Artificial Intelligence",
+        "trackUri" : "spotify:track:2rhy8BNOlmZAXtdw0Mmyic"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Dull Hull - Edit V7",
+        "artistName" : "Modeselektor",
+        "albumName" : "Shipwreck",
+        "trackUri" : "spotify:track:0FHe6V2yfLAj4z5q4feHIP"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "The Church",
+        "artistName" : "Mr. Oizo",
+        "albumName" : "The Church",
+        "trackUri" : "spotify:track:3ZcYglUg3x6e5mej1NsJeh"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Pirates",
+        "artistName" : "Burial",
+        "albumName" : "Burial",
+        "trackUri" : "spotify:track:2J4umT2MYrFf2tcum3rLZT"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Order from Chaos",
+        "artistName" : "Max Cooper",
+        "albumName" : "Emergence",
+        "trackUri" : "spotify:track:1O2j6xoEmETsbTk9r8yyQO"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "The Exploding Psychology",
+        "artistName" : "Squarepusher",
+        "albumName" : "Go Plastic",
+        "trackUri" : "spotify:track:5N4LlJv0wavZ5LotGC8R56"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "1st 44",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Collapse EP",
+        "trackUri" : "spotify:track:5w1gF0DpAeTkFnLTlbLm96"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Doctrine",
+        "artistName" : "Autechre",
+        "albumName" : "Incunabula",
+        "trackUri" : "spotify:track:3cCrc0SbTlwqB4BrROpIMR"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Call Me - Emmanuel Top Remix",
+        "artistName" : "Ellen Allien",
+        "albumName" : "Nost Rmxs 1",
+        "trackUri" : "spotify:track:4PXQDrRJzLuHc473LvHZXo"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "White Crown",
+        "artistName" : "Machinedrum",
+        "albumName" : "Human Energy",
+        "trackUri" : "spotify:track:1g1lfyrepEhMEAWXvJjgNa"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Kill Bill, Vol. 4",
+        "artistName" : "Modeselektor",
+        "albumName" : "Hello Mom!",
+        "trackUri" : "spotify:track:0T93QZ9e99gGD5WGIHA3xP"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Zezbo Version",
+        "artistName" : "Skee Mask",
+        "albumName" : "Bavarian Stallion Series 001",
+        "trackUri" : "spotify:track:2i9JJtRnx7NySxiRUV1mLL"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Freeman, Hardy & Willis Acid [Chosen by Warp co-founder Steve Beckett]",
+        "artistName" : "Squarepusher",
+        "albumName" : "We Are Reasonable People",
+        "trackUri" : "spotify:track:0olxIKm0D9UBrpDt4Vn8Js"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Raver",
+        "artistName" : "Burial",
+        "albumName" : "Untrue",
+        "trackUri" : "spotify:track:6KhPQZ76b0qvNtMXxyIfS4"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Clipper",
+        "artistName" : "Autechre",
+        "albumName" : "Tri Repetae",
+        "trackUri" : "spotify:track:0tH7mxb2ML1VlOinHRcelQ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Inhale / Exhale",
+        "artistName" : "Boys Noize",
+        "albumName" : "I Love Techno 2013",
+        "trackUri" : "spotify:track:6uynFfEi4jjSpxgEHZ9jMT"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Wrong Password",
+        "artistName" : "Siriusmo",
+        "albumName" : "Comic",
+        "trackUri" : "spotify:track:4hHExhxxrYAj88HnyPGAyx"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Coopers World",
+        "artistName" : "Squarepusher",
+        "albumName" : "Hard Normal Daddy",
+        "trackUri" : "spotify:track:2Wm1moQH2T98FBGdWKSj3M"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Vordhosbn",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Drukqs",
+        "trackUri" : "spotify:track:3tWiIOPBJjgjA6PpozJqNO"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Blue Clouds",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:3u6L6Go8hGx9daN7573zTp"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Hun",
+        "artistName" : "Mr. Oizo",
+        "albumName" : "Lambs Anger",
+        "trackUri" : "spotify:track:3ARm0Eqq7CcBWZxWlTmRLH"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Basscadet",
+        "artistName" : "Autechre",
+        "albumName" : "Incunabula",
+        "trackUri" : "spotify:track:300JzpjKxtRR8oAsnLers1"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Broken Glass Arch",
+        "artistName" : "DjRUM",
+        "albumName" : "Broken Glass Arch",
+        "trackUri" : "spotify:track:2y3oBi2u2MNiyr9P6IAR9I"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Beep Street",
+        "artistName" : "Squarepusher",
+        "albumName" : "Hard Normal Daddy",
+        "trackUri" : "spotify:track:4ygcdmPyBFEaf25SEEsKrz"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Reduct Live",
+        "artistName" : "Skee Mask",
+        "albumName" : "Serum",
+        "trackUri" : "spotify:track:70mfRgfHlxyehgdijLfQOW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "We Are The Asteroid!",
+        "artistName" : "Extrawelt",
+        "albumName" : "Unknown",
+        "trackUri" : "spotify:track:7yuAou3gTNkpO46SQUno7q"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "German Clap",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:0BGQpZw3XJ4w85rb4jlVsf"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Loner",
+        "artistName" : "Burial",
+        "albumName" : "Kindred",
+        "trackUri" : "spotify:track:31TmMwrJRrLodH5hMIdleC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Stor Eiglass",
+        "artistName" : "Squarepusher",
+        "albumName" : "Damogen Furies",
+        "trackUri" : "spotify:track:6grswoSfD7igOq7BXNsUPI"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "MT1 t29r2",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Collapse EP",
+        "trackUri" : "spotify:track:766E5SBcB2gZP5wFA6kd7m"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Teartear",
+        "artistName" : "Autechre",
+        "albumName" : "Amber",
+        "trackUri" : "spotify:track:66VeMBcGiUYsXUr5Jqc2QV"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Secam",
+        "artistName" : "Mr. Oizo",
+        "albumName" : "ED REC Vol.X",
+        "trackUri" : "spotify:track:7cM1ZNQBxJXI60GDwjJWda"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Autotuned",
+        "artistName" : "Skee Mask",
+        "albumName" : "Shred",
+        "trackUri" : "spotify:track:1blFwsWq3nt0Jt55MSCFxG"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "Capgras",
+        "artistName" : "Huoratron",
+        "albumName" : "XXVI Crimes of Love",
+        "trackUri" : "spotify:track:6nyRgV7pskZzzI2877SdqM"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-05"
+    }, {
+      "track" : {
+        "trackName" : "What's the Use",
+        "artistName" : "Tirzah",
+        "albumName" : "Make It Up",
+        "trackUri" : "spotify:track:423aci6sBikDUtsX6FiJT9"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-15"
+    }, {
+      "track" : {
+        "trackName" : "Baila Duro",
+        "artistName" : "Maria Daniela Y Su Sonido Lasser",
+        "albumName" : "Baila Duro!",
+        "trackUri" : "spotify:track:6RjnfbddTBplQrUpmq4vSM"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-02-17"
+    }, {
+      "track" : {
+        "trackName" : "Rattle Snake",
+        "artistName" : "Catnapp",
+        "albumName" : "Rattle Snake",
+        "trackUri" : "spotify:track:6oaaTyga1QMegsrhu0Yrav"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-18"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Various Artists – Berlin Underground Selection (Finest Electronic Music)",
+    "lastModifiedDate" : "2019-01-26",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "What's Next",
+        "artistName" : "Ramon Tapia",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:720DWLxKejmtbcsrIkKYFX"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Der Spatz Auf Dem Dach",
+        "artistName" : "Peter Juergens",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:4CMBoQOCX7KNjJqCB800Rm"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Shanghai Spinner",
+        "artistName" : "Oliver Huntemann",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:1UdQ87ehMXxUqjrVxbZlnw"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Burn Myself",
+        "artistName" : "Coyu",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:7gdgP7gkxvlNaRyupiofZb"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Cottbus",
+        "artistName" : "Manuel Tur",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:60II2e2ew3hINyQG2sdble"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "The Raw Road - Original",
+        "artistName" : "Layo",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:7Bfoc0BwIR7l0622tVO77g"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "UNA PENA - ORGINAL",
+        "artistName" : "Stimming",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:7s77pMaxqH87jp3EJSAjaq"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Katze Baum - Original Mix",
+        "artistName" : "Chroma",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:3R6CDXw6u72KbJUsdVhmct"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Escape To Amsterdam",
+        "artistName" : "Gregor Tresher",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:2RClKLkQ2O8yM7wMk8Ll4n"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "All She Wants Is - Markus Fix Remix",
+        "artistName" : "Karotte",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:3SpyIwCTDmX6xffOfrXKcH"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Pitch & Toss - Original Mix",
+        "artistName" : "Namito",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:7kF2XRUMWk9GAk9wnKsnui"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "CABARET",
+        "artistName" : "io",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:3YdoPWrEX08H9wJeH3jX25"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Myal - Original",
+        "artistName" : "Mathias Kaden",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:2Xhe6POahQ6czyK3rNskYT"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Auf und ab",
+        "artistName" : "Chris Liebing",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:7id0pQM504W2NAlbjaCJP1"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Pompadour - Catz n' Dogz Remix",
+        "artistName" : "Chelonis R. Jones",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:7jXQeX92kFbE5bh4XFpLxo"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Got Fringe?",
+        "artistName" : "Hector",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:2oVssZ9GX1UyYnSNSu6Q9s"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Show of Hands",
+        "artistName" : "Bushwacka!",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:70MluEOJd2DaXur42Kk2rC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Tranquillo",
+        "artistName" : "Sven Tasnadi",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:2q7OHQcuKLEsceCYZLCy6H"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Behind The Stars",
+        "artistName" : "Pantha Du Prince",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:16dqmTwmovvMrUsNXHnCrD"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Zorro - Phonique & Tigerskin Remix",
+        "artistName" : "Namito",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:7Lejn4JutojNIn0yYkqFcg"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "No News Today - Deadbeat Roller Dub",
+        "artistName" : "Exercise One",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:601oWu4fh1z3W2tF0qkrsF"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Pianoroll - Ramon Tapia Remix",
+        "artistName" : "Martin Eyerer",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:0lPNCwPIiglOwtpdiV0lcG"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Chicas Latinas",
+        "artistName" : "Mihalis Safras",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:6tzDPpXiut2V77yIKaVZaW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Untitled Head",
+        "artistName" : "Spencer Parker",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:1M82r8HH9UTbT2fe1pKP0D"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Amelie - SIS Remix",
+        "artistName" : "Butch",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:6sr9omEeHxPYVDKwqoRoIT"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Okay - Dropout Remix",
+        "artistName" : "Marcel Janovsky",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:1weYHnqm6yAGuhK8ubcK1R"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Automato",
+        "artistName" : "Iñaqui Marin",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:53oNlpYhkNGPuS1Cmhr4ET"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Man High",
+        "artistName" : "Martin Landsky",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:1E3oaDLFVjkTz0R3vlW9Sa"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Lotussaft - Lopazz Remix",
+        "artistName" : "Smalltown Collective",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:7wEmkRBUpaOSkgqJhTgKnX"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    }, {
+      "track" : {
+        "trackName" : "First Contact",
+        "artistName" : "Audision",
+        "albumName" : "Berlin Underground Selection",
+        "trackUri" : "spotify:track:1GIL8r2sUj7C6JSJwFqIkB"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-01-26"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Modeselektor full - skoncil jsem:",
+    "lastModifiedDate" : "2018-12-13",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Dancing Box - Sleeparchive Remix",
+        "artistName" : "Modeselektor",
+        "albumName" : "Hello Mom!",
+        "trackUri" : "spotify:track:1bnXcP5WcygjKi9eQmNMHT"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-12-13"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Ancient Methods - Methods 1....5 + Jericho",
+    "lastModifiedDate" : "2018-11-30",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Am-1 A1",
+        "artistName" : "Ancient Methods",
+        "albumName" : "First Method",
+        "trackUri" : "spotify:track:2SskBVTpugaB3rwBUb7o1H"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-1 A2",
+        "artistName" : "Ancient Methods",
+        "albumName" : "First Method",
+        "trackUri" : "spotify:track:44WzCYcpxWVrQjBnavNi1z"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-1 B1",
+        "artistName" : "Ancient Methods",
+        "albumName" : "First Method",
+        "trackUri" : "spotify:track:4yuDU4A2cyiA9jeQpgsQas"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-1 B2",
+        "artistName" : "Ancient Methods",
+        "albumName" : "First Method",
+        "trackUri" : "spotify:track:70SaRAzEAgbI7Nqo7ij2wa"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-2 A1",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Second Method",
+        "trackUri" : "spotify:track:62O490lsGkBaHBkew4dQMM"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-2 A2",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Second Method",
+        "trackUri" : "spotify:track:1HiDWzqUMveeCPjiiUFoGF"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-2 B1",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Second Method",
+        "trackUri" : "spotify:track:5uJiTHIceniqpwCGItrMuK"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-2 B2",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Second Method",
+        "trackUri" : "spotify:track:2YiAejO6ZH4hbDSbYjjFym"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Else - Ugandan Methods Mix",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Third Method",
+        "trackUri" : "spotify:track:5pdlvHNVXDzIoX9zJZEbcz"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Else - Radio Edit",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Third Method",
+        "trackUri" : "spotify:track:6FCdJJL6f8nzAvPU357mBs"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "White Flames - Burning - Reprise",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Third Method",
+        "trackUri" : "spotify:track:6ZIivsIdi77wOcnS0GOJ84"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-4 A1",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Fourth Method",
+        "trackUri" : "spotify:track:01tssunCJumZAuKwiK3osG"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-4 B1",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Fourth Method",
+        "trackUri" : "spotify:track:3M4JH387rhA8DAXFRJ9l2d"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-4 B2",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Fourth Method",
+        "trackUri" : "spotify:track:18FFTGpXKFAdnwMvIhi4aH"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-5 A1",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Fifth Method",
+        "trackUri" : "spotify:track:6jTht9kD7ANJ06VWm7xwSD"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-5 B1",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Fifth Method",
+        "trackUri" : "spotify:track:7ztOQ9068XAC09j2W50VmE"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Am-5 B2",
+        "artistName" : "Ancient Methods",
+        "albumName" : "Fifth Method",
+        "trackUri" : "spotify:track:37IW0Lm5qqcVIvYze7r8tH"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Walls",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:4tXLW3l4IGYcyXItaC9IHw"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Twelve Stones to Divide Jordans Sand",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:4QizA3hr9sGKPlhcY4E6D0"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "The City Awakes",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:3YISZ1xEbgXjoCfkrudkEq"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Treason Creeps In",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:1St5jdpS7sphAN5sOXiH6o"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "The House of Rahab",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:2Swq7lTBdPRdHiGwEI3YxN"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Array the Troops",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:7tNM8cVNujcucndQl5Q2L7"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "The Seven Shofars",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:7DE5KG4F6KiS53gU7TcP4F"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Crack and Collapse in the Storm of Lights",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:7doPNhK3ektz0RgIpbUGov"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Swordplay",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:6bqIQMKvOlTLUwe3nnh6Ei"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Omen's Duty",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:1ErpfywJiNFGvg1UvCRY4J"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "I Am Your New King",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:6H1Ej9d9D5uu4taS4hWw7n"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Moonset",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:025JNfWAX6VY9mIAMpAA9v"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "Walking on Cursed Soil",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:3YotKAMIhIwO8zSkfs1jT4"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    }, {
+      "track" : {
+        "trackName" : "In Silence",
+        "artistName" : "Ancient Methods",
+        "albumName" : "The Jericho Records",
+        "trackUri" : "spotify:track:4SfisIVYPw8aajqYEwo7Ue"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-30"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 1
+  }, {
+    "name" : "fkn interesting and brand new stuff (for me)",
+    "lastModifiedDate" : "2018-11-27",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "It's Okay To Cry",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:6alyjZsu8ILucIeRIB63mj"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Ponyboy",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:5rZDwQojqIa77SnsOWhNaT"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Faceshopping",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:5Phe35xgdkRSxTdM4MAVIk"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Is It Cold In The Water?",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:1cYvs9fP9Lh2bRqXdPFF9u"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Infatuation",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:6pGXRnDKQj7s3uJpjlUaCi"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Not Okay",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:3X0l3aPyUdBCR4hxKjipio"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Pretending",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:3pBa0u28zQECDOprEdiB9a"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Immaterial",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:02Mkz55cCAHabqlxwSP6X0"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Whole New World/Pretend World",
+        "artistName" : "SOPHIE",
+        "albumName" : "OIL OF EVERY PEARL'S UN-INSIDES",
+        "trackUri" : "spotify:track:3xPpIllY8zif6zWvOwxB9k"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Köpenick",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:4hdfCtMykWnAmvNtLMtsAQ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Der schöne General",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:4ZFKJEoPs3IgnrOJWAKuoo"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Brenn die Bank ab",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:0C9bA4VUvludc9rcPS7Rj4"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Klaps auf den Po",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:1fxcOrdY1JqMJAzYcnCqNv"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Maskenball",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:0dhiDPOpUqqIZMmrWaw2AW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Heiß heiß Baby",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:5pmP7Nz2QZn2SHtuMEB4Ix"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Metalkutte",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:4SAH1tNo0wH5ZRjgclg4EN"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Romano & Julia",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:61Fn46fFAuEkqxdEPw2dFN"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Stahlraum",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:1ckq1UOXUOthUYRQ6Khha0"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Marlboro Mann",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:258bCB4F7j9VJQwQJM3SsK"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Sextrain",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:3f76PAbKKJkmaI6m2zZMk3"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Straße",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:1RydXKWAtGvFbcO8uUitsF"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Immun",
+        "artistName" : "Romano",
+        "albumName" : "Jenseits von Köpenick",
+        "trackUri" : "spotify:track:7hWkWf4rxF5iLMHg7xoQOY"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "To Party",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:4P1twZI1tpqT1QYvqC4VHb"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Brighton Beach",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:0gmQeaFzdOOqqBKJuiMcIZ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Give Me Your Money",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:3UkPUZcqN1x41vTX6AQ8rA"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "The Sign",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:3yvJVUKoRegW0NkgK5Ukv6"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Big Dick",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:2KAXsRLc9LAZklPjm6cQ5y"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Fucking Asshole",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:70rVhKSUjK5A106sGGrpWX"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Kind Inside Hard Outside",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:5h4ESvKN3DLRjDBnOXzPGL"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Dead Unicorn",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:6B8FSvLT3SYuYwSI5yCj6I"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Hateful Love",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:5csbBb7DkzDkDaH9wJ2Xxp"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Funeral Rave",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:4Gm6nG0Uo9G6Jpuwa2sbGf"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Polyushko Polye",
+        "artistName" : "Little Big",
+        "albumName" : "Funeral Rave",
+        "trackUri" : "spotify:track:11Xj33nHrqOU0wA0kl2cAs"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "With Russia from Love",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:68VjOnfvJrZoVyZeGLJiG9"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Life in da Trash",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:4x7emkqBXHfc1wqwTHd9Zi"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Public Enemy",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:4oGZYN2ySQ9Lo3nTKOrWpS"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "My Way",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:0BIUiQ6a3GgZgNiUhx8d3s"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Pump It",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:4yMPS6ITjBQZWj5sHCtWgc"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Every Day I'm Drinking",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:6kpH98OJSyBW7ujicUyiqb"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Stoned Monkey",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:1IQeGkgGFO8FNWiBlD4OVO"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Russian Hooligans",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:0MibicV0ewXYkgynLcKGOJ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "What a Fucking Day",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:4e4qvlGbwPleDG2SA1dS8m"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "We Will Push a Button",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:6RN21se4HCwi5fXabk1XuL"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Freedom",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:0rZ4szaeUSRfGNBA81IYuU"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Life in da Trash - Remix By Dimm",
+        "artistName" : "Little Big",
+        "albumName" : "With Russia from Love",
+        "trackUri" : "spotify:track:5kyDEmn490SZt2nGJgESZr"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Altyn",
+        "artistName" : "Tatarka",
+        "albumName" : "Altyn",
+        "trackUri" : "spotify:track:4PeSCrs3NPxbjwsOUkUNaE"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "U Can Take",
+        "artistName" : "Tatarka",
+        "albumName" : "U Can Take",
+        "trackUri" : "spotify:track:7jLwkT8ReMoqacrGsQAWa5"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    }, {
+      "track" : {
+        "trackName" : "Pussy Power",
+        "artistName" : "Tatarka",
+        "albumName" : "Pussy Power",
+        "trackUri" : "spotify:track:1pWGcABL3l3lWHkCDE8FJa"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-27"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Otto singles",
+    "lastModifiedDate" : "2019-06-22",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "In the Name of Breakcore",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Breakcore Beefcakes",
+        "trackUri" : "spotify:track:6O3A65l01x665yVFDobPp6"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Laser Barf",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Breakcore Beefcakes",
+        "trackUri" : "spotify:track:5W3WT7Nlohip50CnvDLypS"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Captive Earth People",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Captive Earth People / Flying Saucer",
+        "trackUri" : "spotify:track:0X5zZYiBhCsyea8uN3xoVc"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Flying Saucer",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Captive Earth People / Flying Saucer",
+        "trackUri" : "spotify:track:4oJFE5ZgauaLoNXbOfyGPi"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Ghoulies",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Draculo",
+        "trackUri" : "spotify:track:5o0oCRqvuK7TcYYzUbSXpy"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Draculo",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Draculo",
+        "trackUri" : "spotify:track:7azopOdwmGKQ3HGwb4rrmk"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Astronomical",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Draculo",
+        "trackUri" : "spotify:track:77Ex2UB4yd0ScXKWKG4xJM"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Triangle Bass",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Draculo",
+        "trackUri" : "spotify:track:7l76xhXLEbCJEqKJqaHTRI"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "The Ufo Is Waiting",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Draculo",
+        "trackUri" : "spotify:track:2l8b3Iv6JOkuPb45nCHh5S"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Biscayne Block Boyz",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Biscayne Block Boyz",
+        "trackUri" : "spotify:track:2aB0gLRhi5jJaG0fIqKUbQ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Biscayne Block Boyz - Dub",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Biscayne Block Boyz",
+        "trackUri" : "spotify:track:3HYetu0cVdIL04YG8Qx3Pa"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "All I Want for Xmas is Jingle Bass",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "All I Want for Xmas is Jingle Bass",
+        "trackUri" : "spotify:track:73mOsJiAAasD1uo8W0DcU9"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Biscayne Block Boyz",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Biscayne Block Boyz",
+        "trackUri" : "spotify:track:4jFpg8gjcmaFk7OP83f0X4"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "12 Ratchet Days of Christmas",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "12 Ratchet Days of Christmas",
+        "trackUri" : "spotify:track:1Tx2lod3DVQW4G5Zy4AvqC"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Pineal Warriors",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Pineal Warriors",
+        "trackUri" : "spotify:track:31824sUJD5QGrNXAg5KJm8"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Anunnaki Theme",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Pineal Warriors",
+        "trackUri" : "spotify:track:1zbNYJz2X5l5vtJv847G6P"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Cobra Strike",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Pineal Warriors",
+        "trackUri" : "spotify:track:5HzirbIjFzdW2Kspbk6doL"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Electric Eel",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Electric Eel",
+        "trackUri" : "spotify:track:0xKwA8mE8H77bOOGl5lUeW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Bass Low",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Bass Low",
+        "trackUri" : "spotify:track:6vQ97qeAGE8hD529OPAPnr"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Bass Galactica 8",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Bass Low",
+        "trackUri" : "spotify:track:6GZg05Q506uvujZpAiX5hx"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Bass Low (Gucci Bass Rmx)",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Bass Low",
+        "trackUri" : "spotify:track:6baHmWBGH92h61KEc9AiFN"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Bass Low (Lamebot Remix)",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Bass Low",
+        "trackUri" : "spotify:track:6Npdk6p0iXy5yunkXpRQNZ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-14"
+    }, {
+      "track" : {
+        "trackName" : "Mycelium",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "Mycelium",
+        "trackUri" : "spotify:track:3EAwQe7B6aXKj8cxqZ1Fz0"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "Rattle Snake",
+        "artistName" : "Catnapp",
+        "albumName" : "Rattle Snake",
+        "trackUri" : "spotify:track:6oaaTyga1QMegsrhu0Yrav"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    }, {
+      "track" : {
+        "trackName" : "3000 Brainwaves",
+        "artistName" : "Otto Von Schirach",
+        "albumName" : "3000 Brainwaves",
+        "trackUri" : "spotify:track:5zaxV6OdKNXgKZe1871cJW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2019-06-22"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Kettel - Myam Part I",
+    "lastModifiedDate" : "2018-11-03",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "The Wombat",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:3dkeHTaRSZ7ynLL0VSbuIu"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Dolend",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:1EsZQNyrwoCu1WK4kQZnWP"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Kroost Kids",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:4AoyjFobhRBPTQhsUYJLTL"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Shimamoto",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:1tFCp4nTWVsFCtUCipmgij"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Church",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:3lRKkToqcxpxgcS7hekvx1"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Ende",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:56SCqIyrdVPPz7lOfm2x2h"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Palle's Popsong",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:6x9ttV2gttwoFGrckcZLzs"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Fishfred",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:5mT3s1rB4OS5x7ovlY8TSY"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Twinkle Twinkle",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:0YNxevT2Pe3b00dj8vLKhG"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "My Dogan - Tranceparents Remix by Phoenecia",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:1WX2Q5ZLeI6bufixEflNVL"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    }, {
+      "track" : {
+        "trackName" : "Church - Remix by Secede",
+        "artistName" : "Kettel",
+        "albumName" : "Myam James Part 1",
+        "trackUri" : "spotify:track:63Gu4hKPQeIolYH8Bh65VB"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "NEZAPOMENOUT >>>>> !!!!!!NAPOSLOUCHAT!!!!!! <<<< NEZAPOMENOUT",
+    "lastModifiedDate" : "2020-02-25",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Blue Clouds",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:3u6L6Go8hGx9daN7573zTp"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Pretentious Friends feat. Busdriver",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:3JVuEBIlHyIKw4ts5J62KK"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Shipwreck",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:3VCgYMoLf09TOFrZZxRaLU"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Evil Twin feat. Otto von Schirach",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:6ejNEhXexrAq0MrMGq4MYi"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "German Clap",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:0BGQpZw3XJ4w85rb4jlVsf"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Berlin feat. Miss Platnum",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:3uD8x3IzUWD1BNlCC3fXk2"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Grillwalker",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:3kGk98OggWD18ZBo8UQjWd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Green Light Go",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:0EAxD6WUcrU2bVMYfKlRMW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Humanized feat. Anti Pop Consortium",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:7y8ivvaPd5UC0kQuQTWM5H"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "This",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:1Mlfr3SHW2Vp0ZhVqQxgfh"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "War Cry",
+        "artistName" : "Modeselektor",
+        "albumName" : "Monkeytown",
+        "trackUri" : "spotify:track:5cqWYYD9JeP5lwurHq5vuF"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Untrust Us",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:3q2yH1T78FptWtAmCpQlrG"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Alice Practice",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:0lrn9ia2KnszFb0zFsSk02"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Crimewave",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:4xymOOdANFwko4RpeR961e"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Magic Spells",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:2GAh8zn1Ke2zDDLwfPMexU"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "xxzxcuzx Me",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:4ZQo2ISpK7Y7hreuealHW1"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Air War",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:1FZRgp7rt6tpTXSlfWjQR8"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Courtship Dating",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:3XE0Dh0Z5tbqNC4L1k58Wr"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Good Time",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:58aDCPEExZFfbDcPdcFjMm"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "1991",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:0myCTCHVO6ULPX1SsFi4i6"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Vanished",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:1F6JXocs9Jga2cuxAPOOia"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Knights",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:4L1mg1v5XJVyBBxqDTHD0r"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Love and Caring",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:5ZNIE3XxJWIKc1mF4V5o7R"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Through the Hosiery",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:3GwJC3FPP5izjcDg4iTtgD"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Reckless",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:0Lh7WJ9DwdwA2ATXZEbBCu"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Black Panther",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:3KdAe2CznlUPoAIXNUdHUE"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Tell Me What To Swallow",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:4NhOR3hjzMQKEmGDsIrCHB"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Trash Hologram",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:0oK1OJjPuIEAfasufFG2bj"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Air War - David Wolf Remix",
+        "artistName" : "Crystal Castles",
+        "albumName" : "Crystal Castles",
+        "trackUri" : "spotify:track:4linpbsbNsWsjc5zSgxZXW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-30"
+    }, {
+      "track" : {
+        "trackName" : "Foreword (feat. Rex Orange County)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:33i3xxHB4YSYGYbtJrwwO8"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Where This Flower Blooms (feat. Frank Ocean)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:6KuXb26rHuRy3ZDse1VRmx"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Sometimes...",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:4KgTrzmfiWNcVneh2Dd1Ou"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "See You Again (feat. Kali Uchis)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:7KA4W4McWYRpgf0fWsJZWB"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Who Dat Boy (feat. A$AP Rocky)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:21yRtB6B8EMounImAfHRCP"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Pothole (feat. Jaden Smith)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:5SxlUF7J8tyFIEF22EomeP"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Garden Shed (feat. Estelle)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:6ACiYjq5Q7e6BlhZEHz7cd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Boredom (feat. Rex Orange County & Anna of the North)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:5WNYg3usc6H8N3MBEp4zVk"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "I Ain't Got Time!",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:430qNtapCS3Ue1yoSql1oV"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:4bEcoz1OcfMgUbp2ft8ieQ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Droppin' Seeds (feat. Lil' Wayne)",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:39u2PsqrAZpZ0KPx6CjasV"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "November",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:4XDpeWqPADoWRKcUY3dC84"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Glitter",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:0qtK3XwbuG153dmwB8iepL"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Enjoy Right Now, Today",
+        "artistName" : "Tyler, The Creator",
+        "albumName" : "Flower Boy",
+        "trackUri" : "spotify:track:3R1Vu4Ws7UitwDxDHTol0P"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-31"
+    }, {
+      "track" : {
+        "trackName" : "Formulate",
+        "artistName" : "Solvent",
+        "albumName" : "Subject To Shift",
+        "trackUri" : "spotify:track:43QviHl430uMGFIRSGoIvJ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-03"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "topshit",
+    "lastModifiedDate" : "2018-11-02",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Every Day",
+        "artistName" : "AFX",
+        "albumName" : "Hangable Auto Bulb",
+        "trackUri" : "spotify:track:2iP0WoxusUtDpnNEgewVD8"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "serge fenix Rendered 2",
+        "artistName" : "AFX",
+        "albumName" : "orphaned deejay selek 2006-2008",
+        "trackUri" : "spotify:track:4t3FPvnuyUU2ONjdlovacw"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Laughable Butane Bob",
+        "artistName" : "AFX",
+        "albumName" : "Hangable Auto Bulb",
+        "trackUri" : "spotify:track:35DyFJdbsDQXa7CY4mqckQ"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Children Talking",
+        "artistName" : "AFX",
+        "albumName" : "Hangable Auto Bulb",
+        "trackUri" : "spotify:track:1H5IeoHedbTMhi7mx5guKI"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Xtal",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Selected Ambient Works 85-92",
+        "trackUri" : "spotify:track:7o2AeQZzfCERsRmOM86EcB"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Windowlicker",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Windowlicker",
+        "trackUri" : "spotify:track:60Pe9j2pCBa4Zp4ztf5nhd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Alberto Balsalm",
+        "artistName" : "Aphex Twin",
+        "albumName" : "...I Care Because You Do",
+        "trackUri" : "spotify:track:21Phj46KeUHOWyZW9A9b7P"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "T69 collapse",
+        "artistName" : "Aphex Twin",
+        "albumName" : "T69 collapse",
+        "trackUri" : "spotify:track:1xH3C10MTwvwRVf6jlgdH2"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "aisatsana [102]",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Syro",
+        "trackUri" : "spotify:track:3ESsjKqrj3M79I8sSZieK3"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "#3",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Selected Ambient Works Volume II",
+        "trackUri" : "spotify:track:2Bc4llhjJBW77I552RgA3L"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Avril 14th",
+        "artistName" : "Aphex Twin",
+        "albumName" : "Drukqs",
+        "trackUri" : "spotify:track:2MZSXhq4XDJWu6coGoXX1V"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Petals",
+        "artistName" : "Bibio",
+        "albumName" : "A Mineral Love",
+        "trackUri" : "spotify:track:1TVd8FHpeg1Afa92kaO0kR"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Town & Country",
+        "artistName" : "Bibio",
+        "albumName" : "A Mineral Love",
+        "trackUri" : "spotify:track:1nO357XsHkXI63l6Sn2dJd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Feeling",
+        "artistName" : "Bibio",
+        "albumName" : "A Mineral Love",
+        "trackUri" : "spotify:track:6yhYzci3d8ywNs5uXs2Z3n"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Bike",
+        "artistName" : "Autechre",
+        "albumName" : "Incunabula",
+        "trackUri" : "spotify:track:4v9rHzCDgQXbDdB7t4Nwcz"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Montreal",
+        "artistName" : "Autechre",
+        "albumName" : "Amber",
+        "trackUri" : "spotify:track:4G5lTzfkklIotjt28dhlz3"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Altibzz",
+        "artistName" : "Autechre",
+        "albumName" : "Quaristice",
+        "trackUri" : "spotify:track:2dqLO6897sZKnAAXuOcdGW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Foil",
+        "artistName" : "Autechre",
+        "albumName" : "Amber",
+        "trackUri" : "spotify:track:07C2MiIIwVUEqcnwXpHO67"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "mirrage",
+        "artistName" : "Autechre",
+        "albumName" : "NTS Session 4",
+        "trackUri" : "spotify:track:4qixXgTsvSXwwhutXViRpb"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Dael",
+        "artistName" : "Autechre",
+        "albumName" : "Tri Repetae",
+        "trackUri" : "spotify:track:5z8uWv4R927ntK6jlke9yj"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-08"
+    }, {
+      "track" : {
+        "trackName" : "Disco Science",
+        "artistName" : "Ventolin",
+        "albumName" : "Vitajte",
+        "trackUri" : "spotify:track:0lOMQN8CvgLb8sNn7JC02m"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-11-02"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "You've got great taste!",
+    "lastModifiedDate" : "2018-10-07",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Space Traveller",
+        "artistName" : "Cosmosis",
+        "albumName" : "Fumbling For The Funky Frequency",
+        "trackUri" : "spotify:track:5fcNlkowKWOYWiqp4NZtev"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-07"
+    }, {
+      "track" : {
+        "trackName" : "Sixteen Color Prime Generating Automaton",
+        "artistName" : "David Stutz",
+        "albumName" : "Iolet :: Music from the World of Anathem",
+        "trackUri" : "spotify:track:3AsKL254l04SLR6EDDJXvd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-07"
+    }, {
+      "track" : {
+        "trackName" : "Mi Come Back",
+        "artistName" : "Doreen Shaffer",
+        "albumName" : "Adorable",
+        "trackUri" : "spotify:track:051A17euiCRNusYtsXF8PX"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-07"
+    }, {
+      "track" : {
+        "trackName" : "Fever",
+        "artistName" : "Dr. Ring Ding",
+        "albumName" : "Big Up!",
+        "trackUri" : "spotify:track:1ZHtStDcCKHRBAQl9pzC62"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-07"
+    }, {
+      "track" : {
+        "trackName" : "Purple Noise",
+        "artistName" : "Boris Brejcha",
+        "albumName" : "Feuerfalter Special Edition",
+        "trackUri" : "spotify:track:6BA2JM59JObFjHNvLK2KOg"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-07"
+    }, {
+      "track" : {
+        "trackName" : "Siren Song",
+        "artistName" : "Cosmosis",
+        "albumName" : "Fumbling For The Funky Frequency",
+        "trackUri" : "spotify:track:1ezm6NCZcHlYv8kYdNxVa6"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-07"
+    }, {
+      "track" : {
+        "trackName" : "Fertilized",
+        "artistName" : "Mouse On Mars",
+        "albumName" : "21 Again Collaborations (Part 1)",
+        "trackUri" : "spotify:track:04uwJ9uQ9C3MhgwP9NACU9"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-10-07"
+    } ],
+    "description" : "Thanks for <a href=\"https://surveys.spotify.com/affinity\">helping improve Spotify's recommendations</a>! Here are some tracks you'll love.",
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "horuci jamajsky mix",
+    "lastModifiedDate" : "2018-09-14",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Provincias (Bonus Track)",
+        "artistName" : "Skaparapid",
+        "albumName" : "Que Empiece Ya!",
+        "trackUri" : "spotify:track:08g5hTgewnxILUBod5pUEW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "Since You've Been Gone",
+        "artistName" : "Millie Small",
+        "albumName" : "My Boy Lollipop",
+        "trackUri" : "spotify:track:1aAHp5GVeiGmrxTcstwI6a"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "Squeeze Me",
+        "artistName" : "Macka B",
+        "albumName" : "I Don't Like Reggae: The Best of Macka B",
+        "trackUri" : "spotify:track:2RH1FYhjaco0qdm9HSGW4q"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "Rub a Dub",
+        "artistName" : "Judge Dread",
+        "albumName" : "Best of British: Judge Dread",
+        "trackUri" : "spotify:track:6fKWQ5QatKrm1sDDgs5mHW"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "Greedy Girl",
+        "artistName" : "Derrick Morgan",
+        "albumName" : "The Conquering Ruler",
+        "trackUri" : "spotify:track:3jLUENVv3DYAJSDRHlVuYA"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "The Street Where I'm Living",
+        "artistName" : "Mr. Review",
+        "albumName" : "Keep the Fire Burning",
+        "trackUri" : "spotify:track:1MsWR7HbvQvHVNLteXUWRD"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "Come Down '68",
+        "artistName" : "Lord Creator",
+        "albumName" : "Don't Stay Out Late/ Lord Creator Greatest Hits",
+        "trackUri" : "spotify:track:2J4XkBs9JX5WV7AUluDvJ5"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "Lilly",
+        "artistName" : "Ngobo Ngobo",
+        "albumName" : "Ska, Ska, Skandal Nr.3",
+        "trackUri" : "spotify:track:6YIXJi8IYGidZubmKCqkE1"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "Take Me Home Country Roads",
+        "artistName" : "Toots & The Maytals",
+        "albumName" : "Reggae Greats",
+        "trackUri" : "spotify:track:6gECrWsQGGA49w5uIAoVqd"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "Levi Stubb's Tears",
+        "artistName" : "The Crombies",
+        "albumName" : "Skannibal Party, Vol. 14",
+        "trackUri" : "spotify:track:3nFzThROgJT05i39PXuPvp"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "English Civil War",
+        "artistName" : "The Crombies",
+        "albumName" : "The Clash Goes Jamaican",
+        "trackUri" : "spotify:track:3OQLtoW3VsnQbv8BSpX0Sf"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "One More",
+        "artistName" : "Rocker-T",
+        "albumName" : "If Yu Luv Luv Show Ya Luv",
+        "trackUri" : "spotify:track:16XjYyY8ME7n07x0lEY2gs"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "El Cafetal",
+        "artistName" : "Malarians",
+        "albumName" : "Hostal Caribe",
+        "trackUri" : "spotify:track:2aGjdZiXQw6Y5i71eiCfc6"
+      },
+      "episode" : null,
+      "audiobook" : null,
+      "localTrack" : null,
+      "addedDate" : "2018-04-07"
+    } ],
+    "description" : null,
+    "numberOfFollowers" : 1
+  } ]
+}
